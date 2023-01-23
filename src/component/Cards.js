@@ -33,6 +33,9 @@ export const Cards = () => {
                 </article>
 
             </section>
+
+            <span className="horizontal-line"></span>
+
             <section className="two">
                 <figure className='main-img'>
                     <img src={pic2} alt="japan" />
@@ -57,6 +60,9 @@ export const Cards = () => {
                 </article>
 
             </section>
+
+            <span className="horizontal-line"></span>
+
             <section className="three">
                 <figure className='main-img'>
                     <img src={pic3} alt="japan" />

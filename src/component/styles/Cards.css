@@ -8,6 +8,11 @@ main {
     margin-block: 36px;
     max-width: 470px;
 }
+.horizontal-line {
+    display: block;
+    height: 2px;
+    background-color: #918E9B33;
+}
 .main-img {
     /* border: 1px solid red; */
     width: 100%;
