@@ -1,2 +1,2 @@
-# A  [travel journal](http://localhost:3000) built using React
+# A  [travel journal](https://pevansik.github.io/Travel-Journal/) built using React
 
