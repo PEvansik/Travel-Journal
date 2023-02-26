@@ -9,7 +9,7 @@ export const Header = () => {
                 <img src={globe} alt="globe" />
             </figure>
             <div className='logo-name'>
-                <a href="#" className='globe'>my travel journal</a>
+                <a href="/#" className='globe'>my travel journal</a>
             </div>
         </header>
     )
